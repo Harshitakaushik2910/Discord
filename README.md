@@ -1,3 +1,4 @@
 USING HTML AND CSS I TRY TO MAKE THE DISCORD CLONE
 
-![image](http://localhost:5173/#)
+![image](![discord-clone](https://github.com/user-attachments/assets/13f611e6-5d43-4c49-aea8-24c05cf99d83)
+)
